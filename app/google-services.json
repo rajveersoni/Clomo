@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487116153573",
+    "project_id": "memo-mind",
+    "storage_bucket": "memo-mind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487116153573:android:1354128e654de8ea99ea0c",
+        "android_client_info": {
+          "package_name": "com.example.memomind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487116153573-8hjsbavhvemt8t9sj0r09l3caspgu7uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCE-KaEm_hzzIjpusg68zt4m-FAw8UK5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487116153573-8hjsbavhvemt8t9sj0r09l3caspgu7uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
